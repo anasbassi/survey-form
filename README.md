@@ -1,18 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio Mobile
+# Survey Form
 
-> This web page is a mobile veiw of my portfolio page,
+> This web page is built from a freecode camp templete.
 > The head sections contains the links to external stylesheets and external font.
 > it also contains the title.
-> The body element contains the header, a top section, a work section and, about section.
-> The header contains the logo and a nav element.
-> The section contains information about the website.
-> The work section contains cards that shows the works in my portfolio.
-> The cards are positioned using css grid and the card content were positioned using flex box.
-> The last section is the about section which contains a form for contacting me.
-> All sections are positioned using flex box except the work section.
- 
+> The body element contains the header and a form section.
+> The header contains the title and it's description.
+> The form section contains several types of input methods.
+> It also contains a textarea and a button.
 
 ## Built With
 
@@ -45,7 +41,6 @@ To get a local copy up and running follow these simple example steps.
 ## Acknowledgments
 
 - Microverse
-- Piesie
 
 ## 📝 License
 
